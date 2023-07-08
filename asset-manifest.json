@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JUBAIR-AHAMED/lambda/static/css/main.073c9b0a.css",
+    "main.js": "/JUBAIR-AHAMED/lambda/static/js/main.bfc79578.js",
+    "static/js/787.27d262f0.chunk.js": "/JUBAIR-AHAMED/lambda/static/js/787.27d262f0.chunk.js",
+    "static/media/logo.svg": "/JUBAIR-AHAMED/lambda/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JUBAIR-AHAMED/lambda/index.html",
+    "main.073c9b0a.css.map": "/JUBAIR-AHAMED/lambda/static/css/main.073c9b0a.css.map",
+    "main.bfc79578.js.map": "/JUBAIR-AHAMED/lambda/static/js/main.bfc79578.js.map",
+    "787.27d262f0.chunk.js.map": "/JUBAIR-AHAMED/lambda/static/js/787.27d262f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bfc79578.js"
+  ]
+}
